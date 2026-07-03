@@ -1,5 +1,7 @@
 # Daily Learning
-## Morning Planning
+## Morning Planning level one
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="center">
+
 ## Review
 
 ## Morning planning level two
